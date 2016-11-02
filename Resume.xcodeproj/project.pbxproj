@@ -3,25 +3,35 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72DA89121DC971020047E31F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72DA89111DC971020047E31F /* Assets.xcassets */; };
+		DF109C941D52EBF50080C9DF /* TAFE-Queensland-Official-Partner-GC2018.png in Resources */ = {isa = PBXBuildFile; fileRef = DF109C931D52EBF50080C9DF /* TAFE-Queensland-Official-Partner-GC2018.png */; };
+		DF4154841D52E510004CF01F /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = DF4154831D52E510004CF01F /* images.png */; };
+		DF4154861D52E534004CF01F /* dubspot-logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF4154851D52E534004CF01F /* dubspot-logo.jpg */; };
 		DFE845A91D51849600682DF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE845A81D51849600682DF4 /* AppDelegate.swift */; };
 		DFE845AB1D51849600682DF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE845AA1D51849600682DF4 /* ViewController.swift */; };
 		DFE845AE1D51849600682DF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFE845AC1D51849600682DF4 /* Main.storyboard */; };
-		DFE845B01D51849600682DF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFE845AF1D51849600682DF4 /* Assets.xcassets */; };
 		DFE845B31D51849600682DF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFE845B11D51849600682DF4 /* LaunchScreen.storyboard */; };
+		DFE845BB1D51B3E000682DF4 /* snoop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DFE845BA1D51B3E000682DF4 /* snoop.jpg */; };
+		DFE845BD1D52B8B500682DF4 /* unnamed-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DFE845BC1D52B8B500682DF4 /* unnamed-1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72DA89111DC971020047E31F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DF109C931D52EBF50080C9DF /* TAFE-Queensland-Official-Partner-GC2018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TAFE-Queensland-Official-Partner-GC2018.png"; sourceTree = "<group>"; };
+		DF4154831D52E510004CF01F /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
+		DF4154851D52E534004CF01F /* dubspot-logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dubspot-logo.jpg"; sourceTree = "<group>"; };
 		DFE845A51D51849600682DF4 /* Resume.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Resume.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFE845A81D51849600682DF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DFE845AA1D51849600682DF4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DFE845AD1D51849600682DF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DFE845AF1D51849600682DF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFE845B21D51849600682DF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DFE845B41D51849600682DF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFE845BA1D51B3E000682DF4 /* snoop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snoop.jpg; sourceTree = "<group>"; };
+		DFE845BC1D52B8B500682DF4 /* unnamed-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "unnamed-1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +67,12 @@
 				DFE845A81D51849600682DF4 /* AppDelegate.swift */,
 				DFE845AA1D51849600682DF4 /* ViewController.swift */,
 				DFE845AC1D51849600682DF4 /* Main.storyboard */,
-				DFE845AF1D51849600682DF4 /* Assets.xcassets */,
+				DF109C931D52EBF50080C9DF /* TAFE-Queensland-Official-Partner-GC2018.png */,
+				DFE845BC1D52B8B500682DF4 /* unnamed-1.jpg */,
+				DF4154831D52E510004CF01F /* images.png */,
+				DF4154851D52E534004CF01F /* dubspot-logo.jpg */,
+				DFE845BA1D51B3E000682DF4 /* snoop.jpg */,
+				72DA89111DC971020047E31F /* Assets.xcassets */,
 				DFE845B11D51849600682DF4 /* LaunchScreen.storyboard */,
 				DFE845B41D51849600682DF4 /* Info.plist */,
 			);
@@ -91,17 +106,18 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = Belleyonce;
 				TargetAttributes = {
 					DFE845A41D51849600682DF4 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = AGZ9L38CCG;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = DFE845A01D51849500682DF4 /* Build configuration list for PBXProject "Resume" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -123,9 +139,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF109C941D52EBF50080C9DF /* TAFE-Queensland-Official-Partner-GC2018.png in Resources */,
 				DFE845B31D51849600682DF4 /* LaunchScreen.storyboard in Resources */,
-				DFE845B01D51849600682DF4 /* Assets.xcassets in Resources */,
 				DFE845AE1D51849600682DF4 /* Main.storyboard in Resources */,
+				DF4154841D52E510004CF01F /* images.png in Resources */,
+				DF4154861D52E534004CF01F /* dubspot-logo.jpg in Resources */,
+				DFE845BB1D51B3E000682DF4 /* snoop.jpg in Resources */,
+				72DA89121DC971020047E31F /* Assets.xcassets in Resources */,
+				DFE845BD1D52B8B500682DF4 /* unnamed-1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,7 +171,8 @@
 				DFE845AD1D51849600682DF4 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
+			path = "/Users/bellenoble/Desktop/APP FILES/Resume/Resume";
+			sourceTree = "<absolute>";
 		};
 		DFE845B11D51849600682DF4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
@@ -158,7 +180,8 @@
 				DFE845B21D51849600682DF4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
+			path = "/Users/bellenoble/Desktop/APP FILES/Resume/Resume";
+			sourceTree = "<absolute>";
 		};
 /* End PBXVariantGroup section */
 
@@ -166,7 +189,7 @@
 		DFE845B51D51849600682DF4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -181,12 +204,14 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
+				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -216,7 +241,7 @@
 		DFE845B61D51849600682DF4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -231,12 +256,14 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
+				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -260,7 +287,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AGZ9L38CCG;
 				INFOPLIST_FILE = Resume/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = isabelle.noble.Resume;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +301,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AGZ9L38CCG;
 				INFOPLIST_FILE = Resume/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = isabelle.noble.Resume;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,6 +330,7 @@
 				DFE845B91D51849600682DF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
